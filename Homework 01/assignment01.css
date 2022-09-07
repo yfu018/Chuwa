@@ -1,0 +1,58 @@
+body{
+  margin: 0px;
+}
+
+.table-div {
+  padding: 30px;
+}
+
+.list-div {
+  margin: 50px auto;
+  width: 50%;
+}
+.search-div {
+  margin:30px auto;
+  width:50%
+}
+.menu {
+ width: 60%;
+ font-size: 16px;
+ text-align: center;
+ border-radius: 30px;
+}
+
+.dropdown-div {
+  margin: 30px auto 50px;
+  width: 30%;
+}
+
+.search-bar {
+  font-size: 16px;
+  width: 100%;
+  border: none;
+  padding:12px 15px;
+  border-radius: 30px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+.student-table {
+  border:2px;
+  border-collapse: collapse;
+  border-style: solid;
+  width:100%;
+  text-align: center;
+}
+
+.table-head {
+  background-color: #FFD124;
+}
+
+th {
+  color:white;
+}
+
+th,td {
+  padding: 10px;
+  border:0.7px;
+  border-style: solid;
+  border-color: black;
+}
