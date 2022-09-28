@@ -1,0 +1,20 @@
+.part1,
+.part1 th,
+.part1 tr,
+.part1 td {
+  border-collapse: collapse;
+  border: 1px solid;
+  text-align: center;
+  min-width: 100px;
+}
+
+.fiftyPixelGap {
+  margin-bottom: 50px;
+}
+
+.searchbox {
+  width: 30%;
+  border-radius: 15px;
+  border: 1px #000 solid;
+  padding: 5px 5px 5px 25px;
+}
